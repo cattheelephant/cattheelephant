@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cattheelephant
-- 👀 I’m interested in HTMK, CSS and JavaScript
+- 👀 I’m interested in HTML, CSS and JavaScript
 - 🌱 I’m currently learning Front End Web Development
 - 📫 How to reach me www.instagram.com/cattheelephant
 
